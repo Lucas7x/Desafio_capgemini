@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Desafio_capgemini.Q2Test" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-02-20T16:24:00" hostname="lti-note" time="0.022">
+<testsuite name="Desafio_capgemini.Q2Test" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-02-20T17:46:18" hostname="lti-note" time="0.018">
   <properties/>
-  <testcase name="test02_ContarDigitosQueFaltamParaAlcancarMinimo()" classname="Desafio_capgemini.Q2Test" time="0.002"/>
+  <testcase name="test02_ContarDigitosQueFaltamParaAlcancarMinimo()" classname="Desafio_capgemini.Q2Test" time="0.003"/>
   <testcase name="test03_ContarDigitosQueFaltamParaAlcancarMinimo()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
   <testcase name="testInstanciarMapa()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
   <testcase name="test02_ContarCaracteres()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
@@ -13,7 +13,7 @@
   <testcase name="test02_ContarDigitosParaSenhaSegura()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
   <testcase name="test03_ContarDigitosParaSenhaSegura()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
   <testcase name="test03_ContarCaracteres()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
-  <testcase name="test01_ContarDigitosQueFaltamParaAlcancarMinimo()" classname="Desafio_capgemini.Q2Test" time="0.001"/>
+  <testcase name="test01_ContarDigitosQueFaltamParaAlcancarMinimo()" classname="Desafio_capgemini.Q2Test" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

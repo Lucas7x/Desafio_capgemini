@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Desafio_capgemini.Q3Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-02-20T16:24:00" hostname="lti-note" time="0.044">
+<testsuite name="Desafio_capgemini.Q3Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-02-20T17:46:18" hostname="lti-note" time="0.005">
   <properties/>
-  <testcase name="test02_SaoAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.031"/>
-  <testcase name="test01_SaoAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.002"/>
-  <testcase name="testMain()" classname="Desafio_capgemini.Q3Test" time="0.002"/>
-  <testcase name="testPegarLetrasSubPalavra()" classname="Desafio_capgemini.Q3Test" time="0.001"/>
-  <testcase name="test01_ContarAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.002"/>
-  <testcase name="test02_ContarAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.001"/>
+  <testcase name="test02_SaoAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
+  <testcase name="test01_SaoAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
+  <testcase name="testMain()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
+  <testcase name="testPegarLetrasSubPalavra()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
+  <testcase name="test01_ContarAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
+  <testcase name="test02_ContarAnagramas()" classname="Desafio_capgemini.Q3Test" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
