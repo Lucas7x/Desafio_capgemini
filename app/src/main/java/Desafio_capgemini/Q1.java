@@ -46,7 +46,6 @@ public class Q1 {
       int n;
 
       try {
-        System.out.println("Digite o valor de N");
         //ler o valor de n (inteiro)
         n = scan.nextInt();
         
