@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Desafio_capgemini","l":"Q1"},{"p":"Desafio_capgemini","l":"Q2"},{"p":"Desafio_capgemini","l":"Q3"}]
